@@ -1,0 +1,6 @@
+
+State Machine - |lab22|scan_speed
+Name scan_speed.00100 scan_speed.00110 scan_speed.00101 
+scan_speed.00100 0 0 0 
+scan_speed.00101 1 0 1 
+scan_speed.00110 1 1 0 
